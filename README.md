@@ -25,7 +25,7 @@ Follow these instructions to get the project up and running on your local machin
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/ahsanzahid29/evaluation_project_backend.git
+   git clone https://github.com/ahsanzahid29/evaluation_project_frontend.git
 2. Navigate to the project directory
 3. Install Composer dependencies:
    <b>composer install</b>
